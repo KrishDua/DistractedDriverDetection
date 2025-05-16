@@ -111,6 +111,6 @@ This project allows you to:
 
 **Krish Dua**  
 [Portfolio Website](https://krishdua.vercel.app) 
-[LinkedIn Profile](https://www.linkedin.com/in/krish-dua)
+[LinkedIn Profile](https://www.linkedin.com/in/krish-dua-9202a4272/)
 
 ---
